@@ -43,4 +43,11 @@ The Comment model allows users to leave comments on a blog post.
 # Endpoints: (with Demo Gif) wait for few seconds..
 - **Register** ![Register API Demo](https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-registeration.gif?raw=true) 
 
+- **Login** ![Login API Demo] (https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-login.gif)
+
+- **Post Create & Get(List)** ![BlogPost Create & List API Demo] (https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-Post-Create-_-List-.gif)
+
+- **Post Comment Create & Get(List)** ![BlogPost Comment Create & List API Demo] (https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-Post-Comment-Create-_-List-.gif)
+
+- **Logout** ![Logout API Demo] (https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-logout.gif)
 
