@@ -61,3 +61,7 @@ The **Comment** model allows users to leave comments on a blog post.
 - **Logout**  
   ![Logout API Demo](https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-logout.gif?raw=true)  
 
+
+
+# FrontEnd Integration : In Progress...
+
