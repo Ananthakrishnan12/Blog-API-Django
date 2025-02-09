@@ -38,7 +38,9 @@ The Comment model allows users to leave comments on a blog post.
     - **created**: (DateTimeField): Timestamp when the comment was created.
     - **updated**: (DateTimeField): Timestamp when the comment was last updated.
 
-**API Testing Tool**: 🔬 POSTMAN 
+# API Testing Tool: 🔬 POSTMAN 
 
 # Endpoints:
+- **Register** (watch Demo Gif)... 
+
 
