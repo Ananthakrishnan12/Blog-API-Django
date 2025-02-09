@@ -41,6 +41,6 @@ The Comment model allows users to leave comments on a blog post.
 # API Testing Tool: 🔬 POSTMAN 
 
 # Endpoints:
-- **Register** (watch Demo Gif)... 
+- **Register** ![Register API Demo](https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-registeration.gif?raw=true) 
 
 
