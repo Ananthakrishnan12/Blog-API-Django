@@ -40,14 +40,20 @@ The Comment model allows users to leave comments on a blog post.
 
 # API Testing Tool: 🔬 POSTMAN 
 
-# Endpoints: (with Demo Gif) wait for few seconds..
-- **Register** ![Register API Demo](https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-registeration.gif?raw=true) 
+# Endpoints: (with Demo Gif) wait for a few seconds...
 
-- **Login** ![Login API Demo] (https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-login.gif)
+- **Register**  
+  ![Register API Demo](https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-registeration.gif?raw=true)  
 
-- **Post Create & Get(List)** ![BlogPost Create & List API Demo] (https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-Post-Create-_-List-.gif)
+- **Login**  
+  ![Login API Demo](https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-login.gif?raw=true)  
 
-- **Post Comment Create & Get(List)** ![BlogPost Comment Create & List API Demo] (https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-Post-Comment-Create-_-List-.gif)
+- **Post Create & Get (List)**  
+  ![BlogPost Create & List API Demo](https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-Post-Create-_-List-.gif?raw=true)  
 
-- **Logout** ![Logout API Demo] (https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-logout.gif)
+- **Post Comment Create & Get (List)**  
+  ![BlogPost Comment Create & List API Demo](https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-Post-Comment-Create-_-List-.gif?raw=true)  
+
+- **Logout**  
+  ![Logout API Demo](https://github.com/Ananthakrishnan12/Blog-API-Django/blob/main/demo/Blog-API-logout.gif?raw=true)  
 
