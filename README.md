@@ -19,13 +19,13 @@ It provides endpoints for managing blog posts, user authentication, pagination, 
 The BlogPost model represents a blog post created by a user.
 
 -**Fields**:
-    title (CharField): Stores the blog post title (max length: 100).
-    content (TextField): Contains the blog content.
-    author (ForeignKey to User): Links the post to a registered user.
-    created_at (DateTimeField): Automatically records when the post was created.
-    updated_at (DateTimeField): Automatically updates when the post is modified.
-    is_published (BooleanField): Defines whether the post is published (default: False).
-    total_likes (IntegerField): Stores the number of likes on the post (default: 0).
+    - title (CharField): Stores the blog post title (max length: 100).
+    - content (TextField): Contains the blog content.
+    - author (ForeignKey to User): Links the post to a registered user.
+    - created_at (DateTimeField): Automatically records when the post was created.
+    - updated_at (DateTimeField): Automatically updates when the post is modified.
+    - is_published (BooleanField): Defines whether the post is published (default: False).
+    - total_likes (IntegerField): Stores the number of likes on the post (default: 0).
 
 -**Comment**:
 The Comment model allows users to leave comments on a blog post.
